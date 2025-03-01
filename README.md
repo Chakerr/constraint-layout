@@ -1,4 +1,4 @@
-# Laboratorio Constraint Layout (Individual)
+# Laboratorio Constraint Layout
 
 Este repositorio contiene el desarrollo del **Laboratorio de Constraint Layout** en Android Studio, donde se implementaron interfaces de usuario complejas mediante el uso de restricciones.
 
