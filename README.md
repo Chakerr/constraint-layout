@@ -10,10 +10,12 @@ Se desarrollaron dos formularios utilizando **Constraint Layout** para optimizar
    - Permite redactar y enviar un correo electrónico.
    - Incluye campos para el destinatario, asunto y mensaje, además de un botón de envío.
    - Implementado siguiendo las mejores prácticas de diseño en Android Studio.
+   - 
 
 2. **Formulario de Registro de Mascotas**
    - Diseñado para registrar la información de una mascota por parte de su propietario.
    - Su estructura sigue principios similares al formulario de correo, garantizando una interfaz intuitiva y funcional.
+   - 
 
 Ambas interfaces fueron creadas optimizando la jerarquía de vistas y asegurando un diseño adaptable a diferentes tamaños de pantalla.
 
@@ -21,5 +23,6 @@ Ambas interfaces fueron creadas optimizando la jerarquía de vistas y asegurando
 - **Android Studio**
 - **Constraint Layout**
 - **Kotlin/Java**
+- 
 
 
